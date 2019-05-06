@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GNOME ID</title>
+  
+  <subtitle>Komunitas GNOME Indonesia</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://gnome.id/"/>
+  <updated>2019-05-06T17:36:23.523Z</updated>
+  <id>http://gnome.id/</id>
+  
+  <author>
+    <name>GNOME Indonesia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Gresik, Tuan Rumah GNOME.Asia Summit 2019</title>
+    <link href="http://gnome.id/2019/05/04/Gresik-Tuan-Rumah-GNOME-Asia-Summit-2019.html"/>
+    <id>http://gnome.id/2019/05/04/Gresik-Tuan-Rumah-GNOME-Asia-Summit-2019.html</id>
+    <published>2019-05-04T16:15:18.000Z</published>
+    <updated>2019-05-06T17:36:23.523Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="video_container"><br>  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png"><br>    <source src="https://gitlab.gnome.org/raniaamina/gnome.asia-summit-2019/raw/master/poster/coming-soon-motion-with-audio.mp4" type="video/mp4"><br>  </video><br></figure><p>GNOME.Asia Summit merupakan acara rutin komunitas GNOME di Asia yang digelar setiap tahunnya. Kegiatan ini biasanya digelar selama beberapa hari dan mempertemukan para pengembang, pengguna, dan orang-orang yang memiliki antusiasme terhadap GNOME atau hal-hal terkait dengan tema <em>free &amp; open source software</em>. Tak heran, ajang ini selalu dinanti-nanti oleh para teman-teman komunitas di Indonesia maupun Asia.<br><a id="more"></a></p><p>Tahun 2015 silam, Indonesia pernah menjadi tuan rumah <a href="http://2015.gnome.asia/" target="_blank" rel="noopener">GNOME.Asia Summit 2015</a>, tepatnya Kota Depok. Tahun ini, Indonesia kembali mendapat kesempatan untuk menjadi tuan rumah perhelatan akbar ini. Kota Gresik Jawa Timur terpilih menjadi kota tempat diselenggarakannya GNOME.Asia Summit 2019. </p><p>Seperti apa kira-kira keseruan acara ini, pantau selalu <a href="http://gnome.id">laman ini</a> untuk mendapatkan kabar terkini seputar GNOME.Asia Summit 2019. </p>]]></content>
+    
+    <summary type="html">
+    
+      Indonesia kembali menjadi tuan rumah GNOME.Asia Summit 2019
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="GNOME.Asia" scheme="http://gnome.id/categories/GNOME-Asia/"/>
+    
+    
+      <category term="Agenda GNOME Indonesia" scheme="http://gnome.id/tags/Agenda-GNOME-Indonesia/"/>
+    
+      <category term="GNOME.Asia" scheme="http://gnome.id/tags/GNOME-Asia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>COSCUP X GNOME.Asia Summit X openSUSE.Asia Summit 2018</title>
+    <link href="http://gnome.id/2018/08/21/coscup-gnome-asia-summit-opensuse-asia-summit-2018.html"/>
+    <id>http://gnome.id/2018/08/21/coscup-gnome-asia-summit-opensuse-asia-summit-2018.html</id>
+    <published>2018-08-21T06:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.523Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://c2.staticflickr.com/2/1811/44065015121_43bdc0fefc_b.jpg" alt="Berfoto bersama"></p><p>GNOME.Asia Summit tahun 2018 ini diselenggarakan bersamaan dengan COSCUP dan openSUSE.Asia Summit di National Taiwan University of Science and Technology, Taipei, Taiwan. Rombongan dari Indonesia berjumlah 15 orang, diantaranya dari GNOME-ID, openSUSE-ID, dan LibreOffice-ID. Perwakilan dari GNOME-ID diantaranya Ahmad Haris, Kukuh Syafaat, Siska Iskandar, dan Iwan Tahari. Pembicara dari Indonesia pada trek GNOME yaitu:<br><a id="more"></a></p><ul><li>Siska Iskandar - “Growing Community with Open Source: Mothers and Housewives’s GNOME and LibreOffice Training”</li><li>Iwan S. Tahari - “Using Inkscape To Design Shoes”</li><li>Kukuh Syafaat - “GNOME Recipes &amp; Local Wisdom”</li></ul><p>Foto-foto dari GNOME.Asia Summit dapat dilihat <a href="https://www.flickr.com/groups/gnomeasia2018/" target="_blank" rel="noopener">disini</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://c2.staticflickr.com/2/1811/44065015121_43bdc0fefc_b.jpg&quot; alt=&quot;Berfoto bersama&quot;&gt;&lt;/p&gt;
+&lt;p&gt;GNOME.Asia Summit tahun 2018 ini diselenggarakan bersamaan dengan COSCUP dan openSUSE.Asia Summit di National Taiwan University of Science and Technology, Taipei, Taiwan. Rombongan dari Indonesia berjumlah 15 orang, diantaranya dari GNOME-ID, openSUSE-ID, dan LibreOffice-ID. Perwakilan dari GNOME-ID diantaranya Ahmad Haris, Kukuh Syafaat, Siska Iskandar, dan Iwan Tahari. Pembicara dari Indonesia pada trek GNOME yaitu:&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="GNOME.Asia" scheme="http://gnome.id/categories/GNOME-Asia/"/>
+    
+    
+      <category term="GNOME.Asia" scheme="http://gnome.id/tags/GNOME-Asia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GNOME Recipes: Yuk Bagikan Resepmu!</title>
+    <link href="http://gnome.id/2018/05/18/GNOME-Recipes-Yuk-Bagikan-Resepmu.html"/>
+    <id>http://gnome.id/2018/05/18/GNOME-Recipes-Yuk-Bagikan-Resepmu.html</id>
+    <published>2018-05-18T05:58:11.000Z</published>
+    <updated>2019-05-06T17:36:23.519Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/gnome-id/poster/master/gnome-recipe-poster.png" alt="Poster GNOME Recipes"></p><hr><p>Menindaklanjuti kegiatan <a href="https://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html">GNOME Recipes Hackfest 2018</a> yang digelar pada tanggal 28 Februari–2 Maret 2018 lalu, GNOME Indonesia berkolaborasi dengan beberapa komunitas <em>open source</em> seperti BlankOn, Endless, dan openSUSE Indonesia mengadakan kegiatan pengumpulan resep lokal. Kegiatan ini akan digelar mulai Mei hingga Juni 2018.<a id="more"></a></p><p>GNOME Recipes merupakan aplikasi yang dapat membantu Anda untuk memasak dengan menu-menu umum maupun khusus yang telah tersedia di dalam aplikasi. Sayangnya sampai sampai saat ini aplikasi GNOME Recipes belum memuat menu-menu Indonesia. GNOME memerlukan kontribusi dari komunitas untuk dapat memperkaya menu pada GNOME Recipes ini.</p><p>Kirim resep terbaik lengkap dengan foto masakanmu melalui <a href="https://s.id/gnomerecipes" target="_blank" rel="noopener">formulir ini</a>. Untuk membantu Anda dalam menulis resep, kami telah menyediakan template yang dapat diunduh melalui <a href="https://drive.google.com/drive/folders/17YYN_QKYwmR36CjhutDuMW8bQrmCkLkr?usp=sharing" target="_blank" rel="noopener">tautan ini</a></p><p>Kami menyediakan beragam hadiah menarik untuk kontributor yang mengirim minimal 7 resep masakan dalam kegiatan ini. Yuk berbagi resep!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/gnome-id/poster/master/gnome-recipe-poster.png&quot; alt=&quot;Poster GNOME Recipes&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Menindaklanjuti kegiatan &lt;a href=&quot;https://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html&quot;&gt;GNOME Recipes Hackfest 2018&lt;/a&gt; yang digelar pada tanggal 28 Februari–2 Maret 2018 lalu, GNOME Indonesia berkolaborasi dengan beberapa komunitas &lt;em&gt;open source&lt;/em&gt; seperti BlankOn, Endless, dan openSUSE Indonesia mengadakan kegiatan pengumpulan resep lokal. Kegiatan ini akan digelar mulai Mei hingga Juni 2018.
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+    
+      <category term="Agenda GNOME Indonesia" scheme="http://gnome.id/tags/Agenda-GNOME-Indonesia/"/>
+    
+      <category term="GNOME Recipes" scheme="http://gnome.id/tags/GNOME-Recipes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GNOME 3.30: &quot;Almería&quot;</title>
+    <link href="http://gnome.id/2018/05/18/gnome-3.30.html"/>
+    <id>http://gnome.id/2018/05/18/gnome-3.30.html</id>
+    <published>2018-05-18T05:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.523Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Memperkenalkan-GNOME-3-30-“Almeria”"><a href="#Memperkenalkan-GNOME-3-30-“Almeria”" class="headerlink" title="Memperkenalkan GNOME 3.30: “Almería”"></a>Memperkenalkan GNOME 3.30: “Almería”</h2><p>GNOME 3.30 adalah versi terbaru GNOME 3, dan merupakan hasil kerja kerasselama 6 bulan komunitas GNOME. Ini berisi fitur-fitur baru utama, sertabanyak perbaikan kecil dan perbaikan kutu. Secara total, rilis ini 24845 perubahan, dibuat oleh sekitar 801 kontributor.<br><a id="more"></a><br>3.30 telah dinamai “Almería” sebagai pengakuan atas tim pengorganisasian GUADEC tahun ini. GUADEC adalah konferensi tahunan utama GNOME dan hanya dimungkinkan karena kerja luar biasa dari para sukarelawan setempat. Acara tahun ini diadakan di Almería, Spanyol, dan sukses besar. Terima kasih, Tim Almería!</p><h2 id="Peningkatan-Kinerja-Destop"><a href="#Peningkatan-Kinerja-Destop" class="headerlink" title="Peningkatan Kinerja Destop"></a>Peningkatan Kinerja Destop</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/performance.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/performance.png"></p><p>Banyak peningkatan kinerja yang signifikan ditambahkan ke GNOME 3.30. Seluruh destop kini menggunakan lebih sedikit sumber daya sistem, yang berarti Anda dapat menjalankan lebih banyak aplikasi sekaligus tanpa menghadapi masalah kinerja.</p><h2 id="Peningkatan-Berbagi-Layar"><a href="#Peningkatan-Berbagi-Layar" class="headerlink" title="Peningkatan Berbagi Layar"></a>Peningkatan Berbagi Layar</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/screen-sharing.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/screen-sharing.png"></p><p>Dengan GNOME 3.30, kini lebih mudah dari sebelumnya untuk mengontrol berbagi layar dan sesi destop jarak jauh. Menu sistem yang baru ditambahkan menampilkan indikator ketika koneksi jarak jauh aktif, sehingga mudah untuk menghentikan sesi ketika selesai.</p><h2 id="Pemutakhiran-Flatpak-Secara-Otomatis"><a href="#Pemutakhiran-Flatpak-Secara-Otomatis" class="headerlink" title="Pemutakhiran Flatpak Secara Otomatis"></a>Pemutakhiran Flatpak Secara Otomatis</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/flatpak-updates.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/flatpak-updates.png"></p><p><em>Perangkat Lunak</em>, pengelola perangkat lunak GNOME, sekarang dapat secara otomatis memperbarui Flatpak yang dipasang. Flatpak adalah teknologi baru yang membuat aplikasi semakin cepat dan aman. Banyak aplikasi baru sudah tersedia di <a href="https://flathub.org" target="_blank" rel="noopener">Flathub</a>, repositori Flatpak yang dikurasi. Cukup aktifkan opsi untuk memperbarui Flatpak, dan Perangkat Lunak akan memastikan Anda memiliki Flatpak terbaru setiap saat.</p><h2 id="Fokus-pada-Konten"><a href="#Fokus-pada-Konten" class="headerlink" title="Fokus pada Konten"></a>Fokus pada Konten</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/epiphany-reader.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/epiphany-reader.png"></p><p>Web telah lama menjadi sumber daya untuk mencari informasi dan membaca dokumentasi. <em>Web</em>, peramban web GNOME, sekarang membantu Anda lebih fokus pada konten dengan tampilan pembaca minimal yang baru. Saat melihat halaman web yang kompatibel, <em>Web</em> dapat beralih antara tampilan normal dan tampilan pembaca yang bersih dan minimal. Tampilan minimal menghapus semua menu, gambar, dan konten asing yang tidak terkait dengan artikel atau dokumen, membuat pengalaman membaca yang lebih menyenangkan.</p><h2 id="Kemas-Windows-Anda"><a href="#Kemas-Windows-Anda" class="headerlink" title="Kemas Windows Anda"></a>Kemas Windows Anda</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/boxes-connect.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/boxes-connect.png"></p><p><em>Boxes</em>, aplikasi mesin virtual GNOME, sekarang dapat terhubung ke server Windows jauh menggunakan Remote Desktop Protocol (RDP). Hal ini membuat mengelola Windows Server sesingkat mungkin, memungkinkan Anda berkonsentrasi pada tugas yang ada di tangan alih-alih mengkhawatirkan protokol koneksi dan akses jarak jauh. Boxes juga sekarang memiliki kemampuan untuk mengimpor berkas OVA, membuat mesin virtual berbagi lebih mudah.</p><h2 id="Lebih-Banyak-Permainan"><a href="#Lebih-Banyak-Permainan" class="headerlink" title="Lebih Banyak Permainan"></a>Lebih Banyak Permainan</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/games-collection.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/games-collection.png"></p><p><em>Permainan</em>, aplikasi permainan retro, lebih cepat digunakan sekarang karena seluruh aplikasi dapat dinavigasi oleh gamepad. Peningkatan tambahan termasuk:</p><ul><li><p>Papan ketik dapat dipetakan ke masukan gamepad, untuk saat-saat ketika Anda tidak memiliki gamepad dengan Anda.</p></li><li><p>Menemukan permainan lebih cepat sekarang dengan detail tambahan tentang setiap permainan yang tersedia ditampilkan dalam tampilan koleksi.</p></li><li><p>Flatpak membundel 4 inti emulator lebih banyak, memungkinkan Anda untuk memainkan permainan lebih banyak dari sebelumnya.</p></li></ul><h2 id="Kenali-Podcast"><a href="#Kenali-Podcast" class="headerlink" title="Kenali Podcast"></a>Kenali Podcast</h2><p><img src="https://help.gnome.org/misc/release-notes/3.30/figures/podcasts.png" alt="https://help.gnome.org/misc/release-notes/3.30/figures/podcasts.png"></p><p>GNOME 3.30 memperkenalkan aplikasi podcast baru bernama <em>Podcasts</em>. <em>Podcasts</em> memungkinkan Anda berlangganan dan mendengarkan podcast favorit Anda, langsung dari destop Anda. Memulai dengan <em>Podcasts</em> juga mudah, memungkinkan Anda mengimpor podcast dari perangkat lain.</p><h2 id="Dan-Itu-Tidak-Semua…"><a href="#Dan-Itu-Tidak-Semua…" class="headerlink" title="Dan Itu Tidak Semua…"></a>Dan Itu Tidak Semua…</h2><p>Seperti biasa, ada banyak perbaikan kecil lainnya dalam rilis GNOME ini. Inilah beberapa di antaranya!</p><ul><li><p><em>Berkas</em>, peramban berkas GNOME, memiliki lokasi dan bilah pencarian yang lebih ramping, membantu Anda menemukan berkas yang Anda inginkan lebih cepat.</p></li><li><p><em>Pengaturan</em> memiliki panel baru untuk mengelola perangkat Thunderbolt, dan sekarang secara dinamis menampilkan panel yang berkaitan dengan perangkat keras hanya ketika perangkat keras yang relevan terdeteksi, menjaga daftar panel tetap bersih dan relevan dengan komputer Anda.</p></li><li><p><em>Asisten Penyiapan Awal</em> memiliki antarmuka pilihan avatar yang ditingkatkan, menampilkan gambar avatar yang baru.</p></li><li><p><em>Catatan</em>, aplikasi pencatat GNOME, menawarkan peningkatan gaya catatan dan kontrol perbesaran, membuat catatan lebih mudah dibaca dan lebih mudah digunakan.</p></li><li><p>Aplikasi <em>Diska</em> dapat mendekripsi dan mengaitkan volume penyimpanan yang dienkripsi oleh VeraCrypt, memungkinkan Anda untuk berbagi konten penting dengan lebih aman.</p></li></ul><h2 id="Informasi-Lebih-Lanjut"><a href="#Informasi-Lebih-Lanjut" class="headerlink" title="Informasi Lebih Lanjut"></a>Informasi Lebih Lanjut</h2><p>GNOME 3.30 juga menawarkan banyak pengembang, dan diterjemahkan ke banyak bahasa.</p><h2 id="Mendapatkan-GNOME-3-30"><a href="#Mendapatkan-GNOME-3-30" class="headerlink" title="Mendapatkan GNOME 3.30"></a>Mendapatkan GNOME 3.30</h2><p>Perangkat lunak GNOME adalah <a href="https://gnu.org/philosophy/free-sw.html" target="_blank" rel="noopener">Perangkat Lunak Bebas</a>: semua <a href="https://gitlab.gnome.org/GNOME" target="_blank" rel="noopener">kode kami</a> tersedia untuk diunduh dan dapat dimodifikasi secara bebas dan didistribusikan kembali. Untuk memasangnya, kami menyarankan Anda menunggu paket resmi yang disediakan oleh vendor atau distribusi Anda. Distribusi populer akan membuat GNOME 3.30 tersedia segera, “dan beberapa sudah memiliki versi pengembangan yang menyertakan rilis GNOME baru.</p><h2 id="Tentang-GNOME"><a href="#Tentang-GNOME" class="headerlink" title="Tentang GNOME"></a>Tentang GNOME</h2><p><a href="https://www.gnome.org/about/" target="_blank" rel="noopener">Proyek GNOME</a> adalah komunitas internasional yang didukung oleh Yayasan nirlaba. Kami fokus pada keunggulan pengalaman pengguna dan internasionalisasi dan aksesibilitas kelas satu. GNOME adalah proyek bebas dan terbuka: <a href="https://www.gnome.org/get-involved/" target="_blank" rel="noopener">Anda dapat bergabung dengan kami</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Memperkenalkan-GNOME-3-30-“Almeria”&quot;&gt;&lt;a href=&quot;#Memperkenalkan-GNOME-3-30-“Almeria”&quot; class=&quot;headerlink&quot; title=&quot;Memperkenalkan GNOME 3.30: “Almería”&quot;&gt;&lt;/a&gt;Memperkenalkan GNOME 3.30: “Almería”&lt;/h2&gt;&lt;p&gt;GNOME 3.30 adalah versi terbaru GNOME 3, dan merupakan hasil kerja kerasselama 6 bulan komunitas GNOME. Ini berisi fitur-fitur baru utama, sertabanyak perbaikan kecil dan perbaikan kutu. Secara total, rilis ini 24845 perubahan, dibuat oleh sekitar 801 kontributor.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Rilis" scheme="http://gnome.id/categories/Rilis/"/>
+    
+      <category term="GNOME Desktop" scheme="http://gnome.id/categories/GNOME-Desktop/"/>
+    
+    
+      <category term="GNOME 3.30" scheme="http://gnome.id/tags/GNOME-3-30/"/>
+    
+      <category term="Almeria" scheme="http://gnome.id/tags/Almeria/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Call for Papers GNOME.Asia Summit 2018 Telah Dibuka</title>
+    <link href="http://gnome.id/2018/05/09/gnome-asia-summit-2018-cfp-telah-dibuka.html"/>
+    <id>http://gnome.id/2018/05/09/gnome-asia-summit-2018-cfp-telah-dibuka.html</id>
+    <published>2018-05-09T06:05:46.000Z</published>
+    <updated>2019-05-06T17:36:23.523Z</updated>
+    
+    <content type="html"><![CDATA[<p>GNOME.Asia Summit adalah konferensi tahunan GNOME di Asia. Tidak hanya berfokus pada destop GNOME, tetapi juga mencakup aplikasi dan alat pengembangan platform. Summit ini menyatukan komunitas GNOME di Asia untuk menyediakan forum bagi pengguna, pengembang, pemimpin yayasan, pemerintah dan bisnis untuk membahas teknologi saat ini dan perkembangan masa depan.<br><a id="more"></a><br><img src="https://openingsource.org/wp-content/uploads/2018/04/National_Taiwan_University_of_Science_and_Technology_20160604.jpg" alt="Gambar dari Chi-Hung Lin – https://www.flickr.com/photos/92585929@N06/27325096293, CC BY-SA 2.0"></p><p>Konferensi ini akan diselenggarakan bersama dengan COSCUP 2018 yang akan diselenggarakan di Taipei, Taiwan mulai 2018-08-11 hingga 2018-08-12. Kami menerima proposal dari pendatang baru dan pembicara berpengalaman.</p><p>Kirimkan CFP Anda di: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform" target="_blank" rel="noopener">https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform</a></p><h2 id="Informasi-Penting"><a href="#Informasi-Penting" class="headerlink" title="Informasi Penting"></a>Informasi Penting</h2><ul><li>Batas waktu:<ul><li>Pengiriman: 25 Mei 2018</li><li>Konfirmasi penerimaan: 1 Juni 2018 hingga 5 Juni 2018</li><li>Penerbitan Jadwal/Program: Awal Juli 2018</li></ul></li><li>Konferensi:<ul><li>Tanggal konferensi: 11 - 12 Agustus, 2018</li><li>Tempat: National Taiwan University of Science and Technology, Taipei, Taiwan.</li></ul></li></ul><p>Topik yang mungkin termasuk, tetapi tidak terbatas pada:</p><p>Berkontribusi ke GNOME</p><ul><li>Latest developments</li><li>Writing applications for GNOME 3</li><li>UI design</li><li>QA and testing</li><li>Accessibility</li><li>Human Interface Engineering (Icons and Graphic Design)</li><li>Marketing/Engagement</li><li>Asia success stories / Local GNOME Projects</li><li>GNOME and Education</li><li>FOSS outreach programs, including Google Summer of Code</li><li>Developing GNOME on mobile devices (smart phones, tablets)</li><li>Developing GNOME on embedded systems or open hardware</li></ul><p>Berkontribusi ke Linux dan F/LOSS</p><ul><li>Linux kernel and development</li><li>The development and promotion of open-source operating systems</li><li>About Debian, Fedora, openSUSE, Ubuntu, FreeBSD, and other distributions</li><li>The development and promotion of other open-source projects</li></ul><p>Open Source Enlightenment and Related Story</p><ul><li>The Knowledge and Spirit of Open Source</li><li>Open Source stories of your own</li><li>How to optimize the process and  improve efficiency with the help of open-source tools</li><li>How to engage non-technical clightning talksontributors in Open Source Projects</li><li>How to engage more female contributors in Open Source Projects</li></ul><p>Teknologi Baru</p><ul><li>Artificial Intelligence</li><li>DevOps with AI</li><li>Deep Learning</li><li>AR &amp; VR</li><li>Big Data</li><li>Distributed systems</li><li>Open Source DevOps</li></ul><p>Kami juga tertarik dengan topik lain terkait dengan Free/Libre and Open Source Software yang tidak tercantum di atas.</p><p>Akan ada kesempatan bagi para pembicara dan anggota Yayasan GNOME untuk meminta sponsor Yayasan GNOME. Harap kirimkan aplikasi ke Komite Perjalanan GNOME <a href="https://wiki.gnome.org/Travel" target="_blank" rel="noopener">https://wiki.gnome.org/Travel</a>.</p><p>Sesi standar akan dijadwalkan selama 45 menit (35 menit bicara + 10 menit tanya jawab). Sesi ini bisa berupa pembicaraan teknis, diskusi panel, atau BOF. Jika Anda membutuhkan lebih banyak waktu atau sumber daya tambahan, jangan ragu untuk menghubungi tim penyelenggara.</p><p>Bagi mereka yang ingin berpartisipasi tetapi tidak yakin apakah mereka ingin melakukan <em>full talk</em>, kami memiliki <em>lightning talk</em>. Ini adalah presentasi 10 menit untuk menunjukkan pekerjaan Anda atau mempromosikan topik yang menarik. Pembicaraan ini akan dikelompokkan bersama dalam satu sesi.</p><p>Harap sediakan abstrak singkat dari proposal Anda (di bawah 150 kata). Sertakan nama Anda, informasi biografi, foto yang cocok untuk web, judul, dan deskripsi presentasi Anda. Tim peninjau akan mengevaluasi entri berdasarkan abstrak yang diserahkan dan waktu yang tersedia dengan mengikuti jadwal.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;GNOME.Asia Summit adalah konferensi tahunan GNOME di Asia. Tidak hanya berfokus pada destop GNOME, tetapi juga mencakup aplikasi dan alat pengembangan platform. Summit ini menyatukan komunitas GNOME di Asia untuk menyediakan forum bagi pengguna, pengembang, pemimpin yayasan, pemerintah dan bisnis untuk membahas teknologi saat ini dan perkembangan masa depan.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+    
+      <category term="GNOME.Asia" scheme="http://gnome.id/tags/GNOME-Asia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Recipes Hackfest 2018</title>
+    <link href="http://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html"/>
+    <id>http://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html</id>
+    <published>2018-03-03T05:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.511Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2018/03/03/2018-03-03-Recipes-Hackfest-2018/recipes-sticker.png"><p>Pada tanggal 28 Februari hingga 2 Marert 2018, telah diadakan <a href="https://wiki.gnome.org/Hackfests/Recipes2018" target="_blank" rel="noopener">Recipes Hackfest 2018</a> bertempat di AMIKOM Yogyakarta.</p><p>Acara ini antara dihadiri oleh pengembang GNOME dan Endless, antara lain Matthias Clasen, Cosimo Cecchi, Jonathan Blandford, Emel Elvin Yıldız, Ekta Nandwani, Martin Abente, Emmanuele Bassi, Umang Jain, Philip Chimento serta perwakilan dari Indonesia, yaitu Ahmad Haris dan Kukuh Syafaat.<br><a id="more"></a><br>Selain itu, acara hari 0 dan hari 3 juga dimeriahkan oleh Siska Iskandar. Tidak lupa juga Estu Fardani dan Rania Amina dari BlankOn yang juga menyempatkan hadir selama hackfest berlangsung.</p><p>Cerita lengkap dari Ahmad Haris dan Kukuh Syafaat dapat disimak pada tautan berikut:</p><ul><li><a href="https://ahmadharis.wordpress.com/2018/03/07/attending-gnome-hackfest-2018/" target="_blank" rel="noopener">Attending GNOME Hackfest 2018</a></li><li><a href="https://blogs.gnome.org/cho2/2018/03/09/gnome-recipes-hackfest-2018/" target="_blank" rel="noopener">GNOME Recipes Hackfest 2018</a></li></ul><img src="/2018/03/03/2018-03-03-Recipes-Hackfest-2018/IMG_20180303_064103_732.jpg" title="Makan-makan"><img src="/2018/03/03/2018-03-03-Recipes-Hackfest-2018/IMG_20180301_230958_104.jpg" title="Makan-makan lagi"><img src="/2018/03/03/2018-03-03-Recipes-Hackfest-2018/IMG_20180303_005456_197.jpg" title="Makan-makan lagi dong">]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2018/03/03/2018-03-03-Recipes-Hackfest-2018/recipes-sticker.png&quot;&gt;
+&lt;p&gt;Pada tanggal 28 Februari hingga 2 Marert 2018, telah diadakan &lt;a href=&quot;https://wiki.gnome.org/Hackfests/Recipes2018&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Recipes Hackfest 2018&lt;/a&gt; bertempat di AMIKOM Yogyakarta.&lt;/p&gt;
+&lt;p&gt;Acara ini antara dihadiri oleh pengembang GNOME dan Endless, antara lain Matthias Clasen, Cosimo Cecchi, Jonathan Blandford, Emel Elvin Yıldız, Ekta Nandwani, Martin Abente, Emmanuele Bassi, Umang Jain, Philip Chimento serta perwakilan dari Indonesia, yaitu Ahmad Haris dan Kukuh Syafaat.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="Komunitas" scheme="http://gnome.id/categories/Komunitas/"/>
+    
+    
+      <category term="Hackfest" scheme="http://gnome.id/tags/Hackfest/"/>
+    
+      <category term="Agenda GNOME Indonesia" scheme="http://gnome.id/tags/Agenda-GNOME-Indonesia/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GNOME 3.18 Release Party – Slawi</title>
+    <link href="http://gnome.id/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi.html"/>
+    <id>http://gnome.id/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi.html</id>
+    <published>2015-12-11T05:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.507Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi/IMG_20151010_214621.jpg"><p>Setelah Jogja dan Tegal, kini giliran Slawi, Jawa Tengah mengadakan GNOME 3.18 Release Party, bertempat di Taman Wisata Guci.</p><img src="/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi/IMG_20151011_093028-1024x576.jpg" title="Ini adalah pemandangan dari salah satu penginapan di Taman Wisata Guci"><p>Acara ini juga dihadiri oleh beberapa komunitas, termasuk dari komunitas yang cukup jauh di seberang sana yaitu Komunitas Studi Linux Universitas Gorontalo, lalu ada dari KPLI Jogja yang turut hadir setelah sukses menyelenggarakan GNOME Release Party 3.18 di Jogja, dan masih banyak tamu yang hadir di GNOME 3.18 Release Party Slawi ini.<br><a id="more"></a></p><p>Seperti sebelumnya, acara inti adalah pemotongan tumpeng yang merupakan tradisi khas Indonesia oleh Pak Rusmanto dari <a href="http://aosi.or.id/" target="_blank" rel="noopener">AOSI</a> dan diserahkan kepada Anjar Hardiena dari <a href="http://cloudkilat.com/" target="_blank" rel="noopener">CloudKilat</a>.</p><img src="/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi/IMG_20151010_215527-1024x576.jpg" title="Acara potong tumpeng bersama Pak Rusmanto dari AOSI, Pak Anjar Hardiena dari CloudKilat dan Bu Siska Iskandar dan Pak Ahmad Haris dari GNOME"><p>Setelah acara selesai, dilanjutkan dengan berfoto bersama dan berenang di kolam air panas.</p><p>Sampai jumpa lagi di acara GNOME selanjutnya.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi/IMG_20151010_214621.jpg&quot;&gt;
+&lt;p&gt;Setelah Jogja dan Tegal, kini giliran Slawi, Jawa Tengah mengadakan GNOME 3.18 Release Party, bertempat di Taman Wisata Guci.&lt;/p&gt;
+&lt;img src=&quot;/2015/12/11/2015-12-11-GNOME-3.18-release-party-slawi/IMG_20151011_093028-1024x576.jpg&quot; title=&quot;Ini adalah pemandangan dari salah satu penginapan di Taman Wisata Guci&quot;&gt;
+&lt;p&gt;Acara ini juga dihadiri oleh beberapa komunitas, termasuk dari komunitas yang cukup jauh di seberang sana yaitu Komunitas Studi Linux Universitas Gorontalo, lalu ada dari KPLI Jogja yang turut hadir setelah sukses menyelenggarakan GNOME Release Party 3.18 di Jogja, dan masih banyak tamu yang hadir di GNOME 3.18 Release Party Slawi ini.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="Rilis" scheme="http://gnome.id/categories/Rilis/"/>
+    
+      <category term="GNOME Desktop" scheme="http://gnome.id/categories/GNOME-Desktop/"/>
+    
+    
+      <category term="Pesta Rilis" scheme="http://gnome.id/tags/Pesta-Rilis/"/>
+    
+      <category term="Agenda Komunitas" scheme="http://gnome.id/tags/Agenda-Komunitas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Liputan GNOME 3.18 Release Party Jogja</title>
+    <link href="http://gnome.id/2015/09/25/2015-09-25-liputan-GNOME-3.18-release-party-jogja.html"/>
+    <id>http://gnome.id/2015/09/25/2015-09-25-liputan-GNOME-3.18-release-party-jogja.html</id>
+    <published>2015-09-25T06:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.507Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/09/25/2015-09-25-liputan-GNOME-3.18-release-party-jogja/21800645559_c5b99d9451_c.jpg" title="GNOME 3.18 Release Party"><p><a href="https://wiki.gnome.org/Events/ReleaseParties/ThreePointEighteen/Yogyakarta" target="_blank" rel="noopener">Pesta Rilis GNOME 3.18 Kodenama Gothenburg</a> sukses kita selenggarakan. Yak Sabtu, 3 Oktober 2015 bertempat di Crytal Lotus Hotel Jalan Magelang. Acara ini dihadiri oleh lebih dari 50 peserta dan diisi dengan beberapa materi, diantaranya pengenalan apa itu GNOME dan fitur terbaru apa saja yang ada pada GNOME 3.18. Acara ditutup dengan pemotongan tumpeng.<br><a id="more"></a></p><p>Mau lihat bagaimana serunya pesta rilis Yogyakarta? Silahkan lihat album di <a href="https://www.flickr.com/photos/vanmalay/albums/72157659541305275" target="_blank" rel="noopener">Flickr</a> berikut. Beberapa cerita tentang pesta rilis bisa juga dibaca, diantaranya dari kak <a href="http://sendy.pw/post/jogja-gnome-3-18-release-party.html" target="_blank" rel="noopener">Sendy</a> n kak <a href="https://tuanpembual.wordpress.com/2015/10/09/gnome-3-18-release-party-jogja/" target="_blank" rel="noopener">Estu</a>.</p><p>Salam hangat.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/09/25/2015-09-25-liputan-GNOME-3.18-release-party-jogja/21800645559_c5b99d9451_c.jpg&quot; title=&quot;GNOME 3.18 Release Party&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.gnome.org/Events/ReleaseParties/ThreePointEighteen/Yogyakarta&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pesta Rilis GNOME 3.18 Kodenama Gothenburg&lt;/a&gt; sukses kita selenggarakan. Yak Sabtu, 3 Oktober 2015 bertempat di Crytal Lotus Hotel Jalan Magelang. Acara ini dihadiri oleh lebih dari 50 peserta dan diisi dengan beberapa materi, diantaranya pengenalan apa itu GNOME dan fitur terbaru apa saja yang ada pada GNOME 3.18. Acara ditutup dengan pemotongan tumpeng.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="Rilis" scheme="http://gnome.id/categories/Rilis/"/>
+    
+      <category term="GNOME Desktop" scheme="http://gnome.id/categories/GNOME-Desktop/"/>
+    
+    
+      <category term="Pesta Rilis" scheme="http://gnome.id/tags/Pesta-Rilis/"/>
+    
+      <category term="Agenda Komunitas" scheme="http://gnome.id/tags/Agenda-Komunitas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Release Party GNOME 3.18</title>
+    <link href="http://gnome.id/2015/09/25/2015-09-25-release-party-GNOME-3.18.html"/>
+    <id>http://gnome.id/2015/09/25/2015-09-25-release-party-GNOME-3.18.html</id>
+    <published>2015-09-25T05:00:00.000Z</published>
+    <updated>2019-05-06T17:36:23.507Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2015/09/25/2015-09-25-release-party-GNOME-3.18/poster-gnome.png" title="GNOME 3.18 Release Party"><p align="center"><br><br>Ayo ramaikan rilis party GNOME 3.18!<br><br>Setelah sukses mengadakan konferensi GNOME.Asia Summit 2015 lalu, kali ini akan hadir acara rilis party GNOME 3.18 yang merupakan versi terbaru dari pengembangan lingkungan destop GNOME.<br><a id="more"></a><br><br>Waktunya?<br><br>Sabtu, 3 Oktober 2015<br><br>14.00 s.d 17.00<br><br>di Crystal Lotus Hotel<br><br>Jl. Magelang KM 5.0, Yogyakarta<br><br>Untuk info lebih lanjut cek twitter kita aja yah di <a href="http://twitter.com/GNOME_ID" target="_blank" rel="noopener">@GNOME_ID</a><br><br>Sampai jumpa di rilis party GNOME 3.18 Yogyakarta. 🙂<br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2015/09/25/2015-09-25-release-party-GNOME-3.18/poster-gnome.png&quot; title=&quot;GNOME 3.18 Release Party&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;Ayo ramaikan rilis party GNOME 3.18!&lt;br&gt;&lt;br&gt;Setelah sukses mengadakan konferensi GNOME.Asia Summit 2015 lalu, kali ini akan hadir acara rilis party GNOME 3.18 yang merupakan versi terbaru dari pengembangan lingkungan destop GNOME.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Acara" scheme="http://gnome.id/categories/Acara/"/>
+    
+      <category term="Rilis" scheme="http://gnome.id/categories/Rilis/"/>
+    
+      <category term="GNOME Desktop" scheme="http://gnome.id/categories/GNOME-Desktop/"/>
+    
+    
+      <category term="Pesta Rilis" scheme="http://gnome.id/tags/Pesta-Rilis/"/>
+    
+      <category term="Agenda Komunitas" scheme="http://gnome.id/tags/Agenda-Komunitas/"/>
+    
+  </entry>
+  
+</feed>
